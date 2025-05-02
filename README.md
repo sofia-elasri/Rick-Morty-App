@@ -1,4 +1,5 @@
-# Rick & Morty App
+![Aperçu de l'application](./public/portal.png)
+# Rick & Morty App 
 
 Cette application permet d'explorer l'univers de **Rick & Morty**. Elle récupère les personnages de la série à l'aide de l'API publique de Rick & Morty et offre des fonctionnalités telles que la pagination, la recherche, le filtrage et la gestion des personnages favoris.
 
