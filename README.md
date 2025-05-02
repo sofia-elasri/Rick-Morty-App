@@ -49,7 +49,7 @@ Cette application permet d'explorer l'univers de **Rick & Morty**. Elle utilise 
 # 4. Lancer le serveur de développement
     npm run dev
 
-5. Ouvrez votre navigateur et accédez à http://localhost:3000.
+# 5. Ouvrez votre navigateur et accédez à http://localhost:3000.
 
 ## Structure du projet
 
