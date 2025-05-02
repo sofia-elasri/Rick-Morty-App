@@ -36,20 +36,20 @@ Cette application permet d'explorer l'univers de **Rick & Morty**. Elle utilise 
 ### Étapes
 
 
-# 1. Cloner le projet
+#### 1. Cloner le projet
     ```bash
     git clone https://github.com/sofia-elasri/Rick-Morty-App.git
 
-# 2. Accéder au dossier
+#### 2. Accéder au dossier
     cd Rick-Morty-App
 
-# 3. Installer les dépendances
+#### 3. Installer les dépendances
     npm install
 
-# 4. Lancer le serveur de développement
+#### 4. Lancer le serveur de développement
     npm run dev
 
-# 5. Ouvrez votre navigateur et accédez à http://localhost:3000.
+#### 5. Ouvrez votre navigateur et accédez à http://localhost:3000.
 
 ## Structure du projet
 
