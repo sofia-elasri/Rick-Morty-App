@@ -63,7 +63,7 @@ Cette application permet d'explorer l'univers de **Rick & Morty**. Elle utilise 
 
 /styles : Contient les fichiers de style globaux.
 
-🧑‍💻 Auteur
+🧑‍💻 Auteur:
 Sofia Elasri
 
 
